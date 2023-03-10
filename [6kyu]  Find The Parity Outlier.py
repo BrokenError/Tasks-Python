@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5526fc09a1bbd946250002dc
+
 def find_outlier(integers):
     add = 0
     even = 0
